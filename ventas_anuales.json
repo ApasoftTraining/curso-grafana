@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "mes": "january",
+      "ventas": 110000
+    },
+    {
+      "mes": "february",
+      "ventas": 105000
+    },
+    {
+      "mes": "march",
+      "ventas": 120000
+    },
+    {
+      "mes": "april",
+      "ventas": 135000
+    },
+    {
+      "mes": "may",
+      "ventas": 140000
+    },
+    {
+      "mes": "june",
+      "ventas": 130000
+    },
+    {
+      "mes": "july",
+      "ventas": 115000
+    },
+    {
+      "mes": "august",
+      "ventas": 100000
+    },
+    {
+      "mes": "september",
+      "ventas": 125000
+    },
+    {
+      "mes": "october",
+      "ventas": 130000
+    },
+    {
+      "mes": "november",
+      "ventas": 145000
+    },
+    {
+      "mes": "december",
+      "ventas": 120000
+    }
+  ]
+}
